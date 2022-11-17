@@ -3,7 +3,7 @@
 Transcribing &amp; looking into various Kaggle cases that are interesting + Discussion w. study buddies! 💻💡
 
 ## Goals:
-+ Learn + master exploratory data analysis (EDA) through kaggle cases, following a [provided curriculum by YH Lee](https://goodday-lab.tistory.com/4)
++ Learn + master exploratory data analysis (EDA) through kaggle cases, following [a provided curriculum by YH Lee](https://goodday-lab.tistory.com/4)
 + Review and discuss on the topics brought from big data analysis class for better understanding
 + Create relevant portfolios on data analysis via joining competitions on dacon, kaggle, etc.
 
